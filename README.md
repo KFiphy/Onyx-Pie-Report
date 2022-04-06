@@ -8,7 +8,7 @@ This is a business analysis to derive insights from products, customers and time
 
 THE PROCESS
 
-observing consistency in data supplied, and driving out questions for actionable strategies.
+Observing consistency in data supplied, and driving out questions for actionable strategies.
 Tools used:
 
 Microsoft PowerBI Desktop
